@@ -1,0 +1,17 @@
+.buttonsPanel{
+ margin-left: 20px;
+ padding: 10px;
+}
+
+.buttonFilter{
+    padding: 10px 7px;
+    margin-right: 5px;
+    font-size: 15px;
+    background-color: #fff;
+    border-color: rgba(0, 0, 0, 0.493);
+}
+
+.selected{
+    background-color: rgba(0, 0, 0, 0.493);
+    color: #fff;
+}

@@ -1,0 +1,13 @@
+.cards{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding:20px;
+    column-count: 3;
+    column-gap: 20px;
+}
+
+.card{
+    min-width: 350px;  
+    margin: 10px;
+    break-inside: avoid-column;
+} 
